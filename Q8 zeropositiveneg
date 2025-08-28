@@ -4,6 +4,6 @@ if n>0:
 elif n<0:
     print("the number is negetive")
 elif n==0:
-    print("the number is 0")
+    print("the number is zero")
 else:
     print("invalid")
