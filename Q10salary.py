@@ -7,7 +7,7 @@ elif a>150000 and a<=300000:
     print("the salary after tax is",t)
 elif a>300000 and a<=600000:
     t=a-((5/100)*a)
-    print("the salary after tax is",t)
+    print("the salary after tax is ",t)
 elif a>600000:
     t=a-((10/100)*a)
     print("the salary after tax is",t)
