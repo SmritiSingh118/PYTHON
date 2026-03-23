@@ -1,4 +1,4 @@
-a=int(input("enter a salary amount"))
+a=int(input("enter a salary amount:"))
 if a>0 and a<=150000:
     t=a-0
     print("the salary after tax is ",t)
