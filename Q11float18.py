@@ -1,4 +1,4 @@
-a=input("enter a value")
+a=input("enter a value:")
 n=float(a)
 if(n>18):
     print("eligible")
