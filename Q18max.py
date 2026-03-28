@@ -1,3 +1,3 @@
-s=input("enter a string")
+s=input("enter a string:")
 mx=max(s)
 print(mx)
