@@ -1,4 +1,4 @@
-m=float(input("enter marks"))
+m=float(input("enter marks:"))
 if m>90:
     print("a grade")
 elif m>80 and m<=90:
