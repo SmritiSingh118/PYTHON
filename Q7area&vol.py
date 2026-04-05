@@ -1,4 +1,4 @@
-r=float(input("enter value of radius"))
+r=float(input("enter value of radius:"))
 h=float(input("enter value of height"))
 a=(2*3.14*(r**2)+2*3.14*r*h)
 v=(3.14*(r**2)*h)
