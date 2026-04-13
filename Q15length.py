@@ -1,3 +1,3 @@
 s=input("enter a string:")
- l=len(s)
+l=len(s)
  print(l)
