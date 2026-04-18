@@ -1,4 +1,4 @@
- import random
+import random
 
  num=random.randint(0,1)
 
