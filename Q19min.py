@@ -1,3 +1,3 @@
 s=input("enter a string:")
- mn=min(s)
+mn=min(s)
  print(mn)
